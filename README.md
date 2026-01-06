@@ -56,5 +56,6 @@ This extension does **not collect, store, or share any user data**.
 
 ## 👨‍💻 Author
 Developed by **Chilukoti Venkata Sai Chandu**
+---
 ⭐ **If you find this project useful, please consider giving it a star!**
 
